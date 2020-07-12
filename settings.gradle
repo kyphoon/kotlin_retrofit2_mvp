@@ -1,0 +1,2 @@
+rootProject.name='kotlin_retrofit2_mvp'
+include ':app'
